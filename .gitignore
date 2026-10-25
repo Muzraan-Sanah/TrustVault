@@ -1,0 +1,8 @@
+﻿node_modules/
+.env
+uploads/
+*.log
+test.txt
+viewer-download-test.txt
+check-owner-password.js
+reset-owner-password.js
